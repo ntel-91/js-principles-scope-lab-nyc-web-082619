@@ -16,3 +16,5 @@ function changeLeastFavoriteCustomer() {
   let leastFavoriteCustomer = 'something';
   console.error('Assignment to constant variable.');
 }
+
+console.log(changeLeastFavoriteCustomer())
