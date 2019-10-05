@@ -13,6 +13,6 @@ function overwriteBestCustomer() {
 }
 
 function changeLeastFavoriteCustomer() {
-  let leastFavoriteCustomer = 'something'
-  console.error('Assignment to constant variable.')
+  let leastFavoriteCustomer = 'something';
+  console.error('Assignment to constant variable.');
 }
