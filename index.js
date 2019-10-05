@@ -16,4 +16,3 @@ function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'frank';
 }
 
-console.log(changeLeastFavoriteCustomer())
