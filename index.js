@@ -12,7 +12,7 @@ function overwriteBestCustomer() {
   bestCustomer = 'maybe bob';
 }
 
-const leastFavoriteCustomer = 
+const leastFavoriteCustomer = 'joey';
 
 function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'frank';
