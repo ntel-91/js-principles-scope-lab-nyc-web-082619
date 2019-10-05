@@ -13,5 +13,5 @@ function overwriteBestCustomer() {
 }
 
 function changeLeastFavoriteCustomer() {
-  
+  console.error('Assignment to constant variable.')
 }
