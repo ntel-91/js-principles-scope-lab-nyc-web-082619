@@ -7,4 +7,3 @@ function upperCaseCustomerName() {
 
 
 
-console.log(upperCaseCustomerName())
